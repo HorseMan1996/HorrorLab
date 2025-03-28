@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 4753df1d287f45941b4fac880b4cc95c
+  productGUID: c7a97b63c24153a4d965ee4d68f9b7ca
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: HorseLabGame
+  productName: HorrorLabsGame
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -860,14 +860,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: HorseLabGame
+  metroPackageName: HorrorLabsGame
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: HorseLabGame
+  metroApplicationDescription: HorrorLabsGame
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -938,10 +938,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: b93dad2c-4ada-4e26-baf1-ff1744d2b9e8
+  cloudProjectId: 0c8aa718-306f-448d-be2b-dde1ac89391c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: HorseLabGame 2025-03-28_23-50-26
+  projectName: HorrorLabsGame
   organizationId: horseman7
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
